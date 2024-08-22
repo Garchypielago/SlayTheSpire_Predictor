@@ -42,7 +42,7 @@ Contiene todo lo necesario para que la interfaz de la web y el servidor funcione
 
 ## 🎬 Demo
 
-(Para que funcione, antes tienes que descargar todo lo que se encuentra en este [enlace]([https://drive.google.com/drive/folders/1M2ZNTsTnOEzqEcOLdyMrnvnXELKaMFMp](https://drive.google.com/drive/folders/1Mwjcs4cMMV7hT14UV3fOFhVuX-5L6Mgh?usp=sharing)) y ejecutar el archivo app.py)
+(Para que funcione, antes tienes que descargar todo lo que se encuentra en este [enlace](https://drive.google.com/drive/folders/1Mwjcs4cMMV7hT14UV3fOFhVuX-5L6Mgh?usp=sharing) y ejecutar el archivo app.py)
 Una vez tengas los archivos necesarios, puedes ver una demo del proyecto [aquí](http://slaythespirepredictordemo.on.drv.tw/SlayTheSpirePredictorDemo/WebApp/).
 
 ---
