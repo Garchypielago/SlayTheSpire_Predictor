@@ -13,7 +13,7 @@ CORS(app) # Para permitir peticiones desde cualquier origen
 def predict():
 
     data = request.json
-   
+
     base_dir = os.path.dirname(os.path.abspath(__file__))
 
     if data['character'] == 'Ironclad':
